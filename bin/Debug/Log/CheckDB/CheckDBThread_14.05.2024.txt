@@ -1,0 +1,1545 @@
+14.05.2024 22:33:55: Open DB connection
+14.05.2024 22:33:55: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:33:55: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:34:05: Open DB connection
+14.05.2024 22:34:05: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:34:05: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:34:16: Open DB connection
+14.05.2024 22:34:16: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:34:16: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:34:26: Open DB connection
+14.05.2024 22:34:26: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:34:26: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:34:36: Open DB connection
+14.05.2024 22:34:36: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:34:36: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:34:46: Open DB connection
+14.05.2024 22:34:46: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:34:46: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:34:56: Open DB connection
+14.05.2024 22:34:56: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:34:56: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:35:06: Open DB connection
+14.05.2024 22:35:06: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:35:06: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:35:16: Open DB connection
+14.05.2024 22:35:16: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:35:16: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:35:26: Open DB connection
+14.05.2024 22:35:26: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:35:26: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:35:36: Open DB connection
+14.05.2024 22:35:36: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:35:36: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:35:46: Open DB connection
+14.05.2024 22:35:46: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:35:46: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:35:56: Open DB connection
+14.05.2024 22:35:56: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:35:56: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:36:06: Open DB connection
+14.05.2024 22:36:06: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:36:06: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:36:16: Open DB connection
+14.05.2024 22:36:16: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:36:16: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:36:26: Open DB connection
+14.05.2024 22:36:26: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:36:26: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:36:36: Open DB connection
+14.05.2024 22:36:36: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:36:36: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:36:46: Open DB connection
+14.05.2024 22:36:46: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:36:46: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:36:56: Open DB connection
+14.05.2024 22:36:56: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:36:56: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:37:06: Open DB connection
+14.05.2024 22:37:06: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:37:06: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:37:16: Open DB connection
+14.05.2024 22:37:16: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:37:16: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:37:26: Open DB connection
+14.05.2024 22:37:26: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:37:26: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:37:36: Open DB connection
+14.05.2024 22:37:36: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:37:36: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:37:46: Open DB connection
+14.05.2024 22:37:46: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:37:46: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:37:56: Open DB connection
+14.05.2024 22:37:56: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:37:56: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:38:06: Open DB connection
+14.05.2024 22:38:06: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:38:06: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:38:16: Open DB connection
+14.05.2024 22:38:16: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:38:16: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:38:26: Open DB connection
+14.05.2024 22:38:26: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:38:26: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:38:36: Open DB connection
+14.05.2024 22:38:36: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:38:36: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:38:46: Open DB connection
+14.05.2024 22:38:46: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:38:46: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:38:56: Open DB connection
+14.05.2024 22:38:56: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:38:56: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:39:07: Open DB connection
+14.05.2024 22:39:07: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:39:07: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:39:17: Open DB connection
+14.05.2024 22:39:17: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:39:17: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:39:27: Open DB connection
+14.05.2024 22:39:27: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:39:27: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:39:37: Open DB connection
+14.05.2024 22:39:37: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:39:37: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:39:47: Open DB connection
+14.05.2024 22:39:47: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:39:47: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:39:57: Open DB connection
+14.05.2024 22:39:57: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:39:57: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:40:07: Open DB connection
+14.05.2024 22:40:07: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:40:07: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:40:17: Open DB connection
+14.05.2024 22:40:17: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:40:17: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:40:27: Open DB connection
+14.05.2024 22:40:27: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:40:27: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:40:37: Open DB connection
+14.05.2024 22:40:37: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:40:37: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:40:47: Open DB connection
+14.05.2024 22:40:47: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:40:47: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:40:57: Open DB connection
+14.05.2024 22:40:57: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:40:57: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:41:07: Open DB connection
+14.05.2024 22:41:07: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:41:07: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:41:17: Open DB connection
+14.05.2024 22:41:17: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:41:17: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:41:27: Open DB connection
+14.05.2024 22:41:27: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:41:27: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:41:37: Open DB connection
+14.05.2024 22:41:37: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:41:37: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:41:47: Open DB connection
+14.05.2024 22:41:47: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:41:47: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:41:57: Open DB connection
+14.05.2024 22:41:57: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:41:57: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:42:07: Open DB connection
+14.05.2024 22:42:07: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:42:07: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:42:17: Open DB connection
+14.05.2024 22:42:17: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:42:17: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:42:27: Open DB connection
+14.05.2024 22:42:27: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:42:27: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:42:37: Open DB connection
+14.05.2024 22:42:37: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:42:37: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:42:47: Open DB connection
+14.05.2024 22:42:47: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:42:47: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:42:57: Open DB connection
+14.05.2024 22:42:57: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:42:57: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:43:07: Open DB connection
+14.05.2024 22:43:07: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:43:07: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:43:17: Open DB connection
+14.05.2024 22:43:17: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:43:17: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:43:27: Open DB connection
+14.05.2024 22:43:27: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:43:27: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:43:37: Open DB connection
+14.05.2024 22:43:37: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:43:37: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:43:48: Open DB connection
+14.05.2024 22:43:48: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:43:48: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:43:58: Open DB connection
+14.05.2024 22:43:58: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:43:58: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:44:08: Open DB connection
+14.05.2024 22:44:08: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:44:08: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:44:18: Open DB connection
+14.05.2024 22:44:18: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:44:18: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:44:28: Open DB connection
+14.05.2024 22:44:28: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:44:28: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:44:38: Open DB connection
+14.05.2024 22:44:38: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:44:38: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:44:48: Open DB connection
+14.05.2024 22:44:48: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:44:48: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:44:58: Open DB connection
+14.05.2024 22:44:58: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:44:58: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:45:08: Open DB connection
+14.05.2024 22:45:08: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:45:08: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:45:18: Open DB connection
+14.05.2024 22:45:18: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:45:18: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:45:28: Open DB connection
+14.05.2024 22:45:28: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:45:28: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:45:38: Open DB connection
+14.05.2024 22:45:38: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:45:38: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:45:48: Open DB connection
+14.05.2024 22:45:48: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:45:48: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:45:58: Open DB connection
+14.05.2024 22:45:58: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:45:58: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:46:08: Open DB connection
+14.05.2024 22:46:08: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:46:08: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:46:18: Open DB connection
+14.05.2024 22:46:18: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:46:18: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:46:28: Open DB connection
+14.05.2024 22:46:28: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:46:28: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:46:38: Open DB connection
+14.05.2024 22:46:38: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:46:38: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:46:48: Open DB connection
+14.05.2024 22:46:48: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:46:48: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:46:58: Open DB connection
+14.05.2024 22:46:58: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:46:58: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:47:08: Open DB connection
+14.05.2024 22:47:08: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:47:08: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:47:18: Open DB connection
+14.05.2024 22:47:18: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:47:18: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:47:28: Open DB connection
+14.05.2024 22:47:28: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:47:29: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:47:39: Open DB connection
+14.05.2024 22:47:39: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:47:39: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:47:49: Open DB connection
+14.05.2024 22:47:49: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:47:49: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:47:59: Open DB connection
+14.05.2024 22:47:59: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:47:59: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:48:09: Open DB connection
+14.05.2024 22:48:09: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:48:09: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:48:19: Open DB connection
+14.05.2024 22:48:19: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:48:19: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:48:29: Open DB connection
+14.05.2024 22:48:29: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:48:29: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:48:39: Open DB connection
+14.05.2024 22:48:39: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:48:39: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:48:49: Open DB connection
+14.05.2024 22:48:49: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:48:49: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:48:59: Open DB connection
+14.05.2024 22:48:59: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:48:59: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:49:09: Open DB connection
+14.05.2024 22:49:09: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:49:09: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:49:19: Open DB connection
+14.05.2024 22:49:19: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:49:19: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:49:29: Open DB connection
+14.05.2024 22:49:29: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:49:29: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:49:39: Open DB connection
+14.05.2024 22:49:39: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:49:39: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:49:49: Open DB connection
+14.05.2024 22:49:49: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:49:49: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:49:59: Open DB connection
+14.05.2024 22:49:59: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:49:59: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:50:09: Open DB connection
+14.05.2024 22:50:09: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:50:09: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:50:19: Open DB connection
+14.05.2024 22:50:19: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:50:19: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:50:29: Open DB connection
+14.05.2024 22:50:29: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:50:29: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:50:39: Open DB connection
+14.05.2024 22:50:39: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:50:39: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:50:49: Open DB connection
+14.05.2024 22:50:49: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:50:49: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:50:59: Open DB connection
+14.05.2024 22:50:59: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:50:59: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:51:09: Open DB connection
+14.05.2024 22:51:09: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:51:09: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:51:19: Open DB connection
+14.05.2024 22:51:19: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:51:19: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:51:29: Open DB connection
+14.05.2024 22:51:29: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:51:29: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:51:39: Open DB connection
+14.05.2024 22:51:39: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:51:39: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:51:49: Open DB connection
+14.05.2024 22:51:49: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:51:49: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:51:59: Open DB connection
+14.05.2024 22:51:59: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:51:59: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:52:10: Open DB connection
+14.05.2024 22:52:10: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:52:10: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:52:20: Open DB connection
+14.05.2024 22:52:20: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:52:20: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:52:30: Open DB connection
+14.05.2024 22:52:30: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:52:30: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:52:40: Open DB connection
+14.05.2024 22:52:40: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:52:40: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:52:50: Open DB connection
+14.05.2024 22:52:50: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:52:50: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:53:00: Open DB connection
+14.05.2024 22:53:00: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:53:00: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:53:10: Open DB connection
+14.05.2024 22:53:10: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:53:10: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:53:20: Open DB connection
+14.05.2024 22:53:20: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:53:20: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:53:30: Open DB connection
+14.05.2024 22:53:30: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:53:30: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:53:40: Open DB connection
+14.05.2024 22:53:40: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:53:40: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:53:50: Open DB connection
+14.05.2024 22:53:50: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:53:50: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:54:00: Open DB connection
+14.05.2024 22:54:00: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:54:00: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:54:10: Open DB connection
+14.05.2024 22:54:10: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:54:10: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:54:20: Open DB connection
+14.05.2024 22:54:20: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:54:20: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:54:30: Open DB connection
+14.05.2024 22:54:30: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:54:30: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:54:40: Open DB connection
+14.05.2024 22:54:40: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:54:40: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:54:50: Open DB connection
+14.05.2024 22:54:50: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:54:50: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:55:00: Open DB connection
+14.05.2024 22:55:00: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:55:00: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:55:10: Open DB connection
+14.05.2024 22:55:10: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:55:10: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:55:20: Open DB connection
+14.05.2024 22:55:20: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:55:20: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:55:30: Open DB connection
+14.05.2024 22:55:30: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:55:30: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:55:40: Open DB connection
+14.05.2024 22:55:40: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:55:40: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:55:50: Open DB connection
+14.05.2024 22:55:50: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:55:50: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:56:00: Open DB connection
+14.05.2024 22:56:00: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:56:00: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:56:10: Open DB connection
+14.05.2024 22:56:10: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:56:10: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:56:20: Open DB connection
+14.05.2024 22:56:20: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:56:20: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:56:30: Open DB connection
+14.05.2024 22:56:30: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:56:30: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:56:40: Open DB connection
+14.05.2024 22:56:40: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:56:40: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:56:50: Open DB connection
+14.05.2024 22:56:51: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:56:51: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:57:01: Open DB connection
+14.05.2024 22:57:01: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:57:01: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:57:11: Open DB connection
+14.05.2024 22:57:11: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:57:11: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:57:21: Open DB connection
+14.05.2024 22:57:21: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:57:21: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:57:31: Open DB connection
+14.05.2024 22:57:31: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:57:31: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:57:41: Open DB connection
+14.05.2024 22:57:41: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:57:41: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:57:51: Open DB connection
+14.05.2024 22:57:51: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:57:51: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:58:01: Open DB connection
+14.05.2024 22:58:01: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:58:01: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:58:11: Open DB connection
+14.05.2024 22:58:11: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:58:11: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:58:21: Open DB connection
+14.05.2024 22:58:21: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:58:21: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:58:31: Open DB connection
+14.05.2024 22:58:31: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:58:31: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:58:41: Open DB connection
+14.05.2024 22:58:41: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:58:41: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:58:51: Open DB connection
+14.05.2024 22:58:51: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:58:51: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:59:01: Open DB connection
+14.05.2024 22:59:01: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:59:01: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:59:11: Open DB connection
+14.05.2024 22:59:11: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:59:11: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:59:21: Open DB connection
+14.05.2024 22:59:21: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:59:21: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:59:31: Open DB connection
+14.05.2024 22:59:31: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:59:31: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:59:41: Open DB connection
+14.05.2024 22:59:41: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:59:41: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 22:59:51: Open DB connection
+14.05.2024 22:59:51: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 22:59:51: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:00:01: Open DB connection
+14.05.2024 23:00:01: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:00:01: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:00:11: Open DB connection
+14.05.2024 23:00:11: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:00:11: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:00:21: Open DB connection
+14.05.2024 23:00:21: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:00:21: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:00:31: Open DB connection
+14.05.2024 23:00:31: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:00:31: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:00:41: Open DB connection
+14.05.2024 23:00:41: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:00:41: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:00:51: Open DB connection
+14.05.2024 23:00:51: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:00:51: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:01:01: Open DB connection
+14.05.2024 23:01:01: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:01:01: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:01:11: Open DB connection
+14.05.2024 23:01:11: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:01:11: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:01:21: Open DB connection
+14.05.2024 23:01:21: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:01:21: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:01:31: Open DB connection
+14.05.2024 23:01:32: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:01:32: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:01:42: Open DB connection
+14.05.2024 23:01:42: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:01:42: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:01:52: Open DB connection
+14.05.2024 23:01:52: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:01:52: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:02:02: Open DB connection
+14.05.2024 23:02:02: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:02:02: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:02:12: Open DB connection
+14.05.2024 23:02:12: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:02:12: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:02:22: Open DB connection
+14.05.2024 23:02:22: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:02:22: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:02:32: Open DB connection
+14.05.2024 23:02:32: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:02:32: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:02:42: Open DB connection
+14.05.2024 23:02:42: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:02:42: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:02:52: Open DB connection
+14.05.2024 23:02:52: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:02:52: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:03:02: Open DB connection
+14.05.2024 23:03:02: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:03:02: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:03:12: Open DB connection
+14.05.2024 23:03:12: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:03:12: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:03:22: Open DB connection
+14.05.2024 23:03:22: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:03:22: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:03:32: Open DB connection
+14.05.2024 23:03:32: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:03:32: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:03:42: Open DB connection
+14.05.2024 23:03:42: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:03:42: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:03:52: Open DB connection
+14.05.2024 23:03:52: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:03:52: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:04:02: Open DB connection
+14.05.2024 23:04:02: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:04:02: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:04:12: Open DB connection
+14.05.2024 23:04:12: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:04:12: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:04:22: Open DB connection
+14.05.2024 23:04:22: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:04:22: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:04:32: Open DB connection
+14.05.2024 23:04:33: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:04:33: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:04:43: Open DB connection
+14.05.2024 23:04:43: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:04:43: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:04:53: Open DB connection
+14.05.2024 23:04:53: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:04:53: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:05:03: Open DB connection
+14.05.2024 23:05:03: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:05:03: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:05:13: Open DB connection
+14.05.2024 23:05:13: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:05:13: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:05:23: Open DB connection
+14.05.2024 23:05:23: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:05:23: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:05:33: Open DB connection
+14.05.2024 23:05:33: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:05:33: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:05:43: Open DB connection
+14.05.2024 23:05:43: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:05:43: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:05:53: Open DB connection
+14.05.2024 23:05:53: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:05:53: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:06:03: Open DB connection
+14.05.2024 23:06:03: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:06:03: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:06:13: Open DB connection
+14.05.2024 23:06:13: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:06:13: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:06:23: Open DB connection
+14.05.2024 23:06:23: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:06:23: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:06:33: Open DB connection
+14.05.2024 23:06:33: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:06:33: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:06:43: Open DB connection
+14.05.2024 23:06:43: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:06:43: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:06:53: Open DB connection
+14.05.2024 23:06:53: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:06:53: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:07:03: Open DB connection
+14.05.2024 23:07:03: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:07:03: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:07:13: Open DB connection
+14.05.2024 23:07:13: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:07:13: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:07:23: Open DB connection
+14.05.2024 23:07:23: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:07:23: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:07:33: Open DB connection
+14.05.2024 23:07:33: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:07:33: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:07:43: Open DB connection
+14.05.2024 23:07:43: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:07:43: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:07:53: Open DB connection
+14.05.2024 23:07:53: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:07:53: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:08:03: Open DB connection
+14.05.2024 23:08:03: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:08:03: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:08:13: Open DB connection
+14.05.2024 23:08:13: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:08:13: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:08:23: Open DB connection
+14.05.2024 23:08:23: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:08:23: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:08:33: Open DB connection
+14.05.2024 23:08:33: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:08:33: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:08:43: Open DB connection
+14.05.2024 23:08:43: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:08:43: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:08:53: Open DB connection
+14.05.2024 23:08:53: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:08:53: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:09:03: Open DB connection
+14.05.2024 23:09:03: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:09:03: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:09:14: Open DB connection
+14.05.2024 23:09:14: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:09:14: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:09:24: Open DB connection
+14.05.2024 23:09:24: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:09:24: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:09:34: Open DB connection
+14.05.2024 23:09:34: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:09:34: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:09:44: Open DB connection
+14.05.2024 23:09:44: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:09:44: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:09:54: Open DB connection
+14.05.2024 23:09:54: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:09:54: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:10:04: Open DB connection
+14.05.2024 23:10:04: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:10:04: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:10:14: Open DB connection
+14.05.2024 23:10:14: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:10:14: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:10:24: Open DB connection
+14.05.2024 23:10:24: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:10:24: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:10:34: Open DB connection
+14.05.2024 23:10:34: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:10:34: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:10:44: Open DB connection
+14.05.2024 23:10:44: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:10:44: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:10:54: Open DB connection
+14.05.2024 23:10:54: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:10:54: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:11:04: Open DB connection
+14.05.2024 23:11:04: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:11:04: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:11:14: Open DB connection
+14.05.2024 23:11:14: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:11:14: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:11:24: Open DB connection
+14.05.2024 23:11:24: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:11:24: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:11:34: Open DB connection
+14.05.2024 23:11:34: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:11:34: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:11:44: Open DB connection
+14.05.2024 23:11:44: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:11:44: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:11:54: Open DB connection
+14.05.2024 23:11:54: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:11:54: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:12:04: Open DB connection
+14.05.2024 23:12:04: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:12:04: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:12:14: Open DB connection
+14.05.2024 23:12:14: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:12:14: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:12:24: Open DB connection
+14.05.2024 23:12:24: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:12:24: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:12:34: Open DB connection
+14.05.2024 23:12:34: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:12:34: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:12:44: Open DB connection
+14.05.2024 23:12:44: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:12:44: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:12:54: Open DB connection
+14.05.2024 23:12:54: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:12:54: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:13:04: Open DB connection
+14.05.2024 23:13:04: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:13:04: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:13:14: Open DB connection
+14.05.2024 23:13:14: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:13:14: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:13:24: Open DB connection
+14.05.2024 23:13:24: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:13:24: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:13:35: Open DB connection
+14.05.2024 23:13:35: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:13:35: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:13:45: Open DB connection
+14.05.2024 23:13:45: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:13:45: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:13:55: Open DB connection
+14.05.2024 23:13:55: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:13:55: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:14:05: Open DB connection
+14.05.2024 23:14:05: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:14:05: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:14:15: Open DB connection
+14.05.2024 23:14:15: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:14:15: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:14:25: Open DB connection
+14.05.2024 23:14:25: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:14:25: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:14:35: Open DB connection
+14.05.2024 23:14:35: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:14:35: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:14:45: Open DB connection
+14.05.2024 23:14:45: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:14:45: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:14:55: Open DB connection
+14.05.2024 23:14:55: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:14:55: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:15:05: Open DB connection
+14.05.2024 23:15:05: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:15:05: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:15:15: Open DB connection
+14.05.2024 23:15:15: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:15:15: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:15:25: Open DB connection
+14.05.2024 23:15:25: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:15:25: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:15:35: Open DB connection
+14.05.2024 23:15:35: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:15:35: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:15:45: Open DB connection
+14.05.2024 23:15:45: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:15:45: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:15:55: Open DB connection
+14.05.2024 23:15:55: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:15:55: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:16:05: Open DB connection
+14.05.2024 23:16:05: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:16:05: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:16:15: Open DB connection
+14.05.2024 23:16:15: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:16:15: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:16:25: Open DB connection
+14.05.2024 23:16:25: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:16:25: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:16:35: Open DB connection
+14.05.2024 23:16:35: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:16:35: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:16:45: Open DB connection
+14.05.2024 23:16:45: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:16:45: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:16:55: Open DB connection
+14.05.2024 23:16:55: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:16:55: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:17:05: Open DB connection
+14.05.2024 23:17:05: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:17:05: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:17:15: Open DB connection
+14.05.2024 23:17:15: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:17:15: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:17:25: Open DB connection
+14.05.2024 23:17:25: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:17:25: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:17:35: Open DB connection
+14.05.2024 23:17:35: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:17:35: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:17:45: Open DB connection
+14.05.2024 23:17:45: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:17:45: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:17:55: Open DB connection
+14.05.2024 23:17:55: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:17:55: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:18:06: Open DB connection
+14.05.2024 23:18:06: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:18:06: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:18:16: Open DB connection
+14.05.2024 23:18:16: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:18:16: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:18:26: Open DB connection
+14.05.2024 23:18:26: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:18:26: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:18:36: Open DB connection
+14.05.2024 23:18:36: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:18:36: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:18:46: Open DB connection
+14.05.2024 23:18:46: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:18:46: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:18:56: Open DB connection
+14.05.2024 23:18:56: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:18:56: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:19:06: Open DB connection
+14.05.2024 23:19:06: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:19:06: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:19:16: Open DB connection
+14.05.2024 23:19:16: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:19:16: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:19:26: Open DB connection
+14.05.2024 23:19:26: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:19:26: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:19:36: Open DB connection
+14.05.2024 23:19:36: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:19:36: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:19:46: Open DB connection
+14.05.2024 23:19:46: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:19:46: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:19:56: Open DB connection
+14.05.2024 23:19:56: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:19:56: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:20:06: Open DB connection
+14.05.2024 23:20:06: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:20:06: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:20:16: Open DB connection
+14.05.2024 23:20:16: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:20:16: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:20:26: Open DB connection
+14.05.2024 23:20:26: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:20:26: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:20:36: Open DB connection
+14.05.2024 23:20:36: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:20:36: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:20:46: Open DB connection
+14.05.2024 23:20:46: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:20:46: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:20:56: Open DB connection
+14.05.2024 23:20:56: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:20:56: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:21:06: Open DB connection
+14.05.2024 23:21:06: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:21:06: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:21:16: Open DB connection
+14.05.2024 23:21:16: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:21:16: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:21:26: Open DB connection
+14.05.2024 23:21:26: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:21:26: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:21:36: Open DB connection
+14.05.2024 23:21:36: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:21:36: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:21:46: Open DB connection
+14.05.2024 23:21:46: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:21:46: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:21:56: Open DB connection
+14.05.2024 23:21:56: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:21:56: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:22:06: Open DB connection
+14.05.2024 23:22:06: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:22:06: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:22:16: Open DB connection
+14.05.2024 23:22:16: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:22:16: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:22:26: Open DB connection
+14.05.2024 23:22:27: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:22:27: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:22:37: Open DB connection
+14.05.2024 23:22:37: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:22:37: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:22:47: Open DB connection
+14.05.2024 23:22:47: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:22:47: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:22:57: Open DB connection
+14.05.2024 23:22:57: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:22:57: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:23:07: Open DB connection
+14.05.2024 23:23:07: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:23:07: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:23:17: Open DB connection
+14.05.2024 23:23:17: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:23:17: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:23:27: Open DB connection
+14.05.2024 23:23:27: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:23:27: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:23:37: Open DB connection
+14.05.2024 23:23:37: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:23:37: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:23:47: Open DB connection
+14.05.2024 23:23:47: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:23:47: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:23:57: Open DB connection
+14.05.2024 23:23:57: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:23:57: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:24:07: Open DB connection
+14.05.2024 23:24:07: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:24:07: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:24:17: Open DB connection
+14.05.2024 23:24:17: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:24:17: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:24:27: Open DB connection
+14.05.2024 23:24:27: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:24:27: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:24:37: Open DB connection
+14.05.2024 23:24:37: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:24:37: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:24:47: Open DB connection
+14.05.2024 23:24:47: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:24:47: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:24:57: Open DB connection
+14.05.2024 23:24:57: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:24:57: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:25:07: Open DB connection
+14.05.2024 23:25:07: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:25:07: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:25:17: Open DB connection
+14.05.2024 23:25:17: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:25:17: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:25:27: Open DB connection
+14.05.2024 23:25:27: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:25:27: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:25:37: Open DB connection
+14.05.2024 23:25:37: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:25:37: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:25:47: Open DB connection
+14.05.2024 23:25:47: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:25:47: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:25:57: Open DB connection
+14.05.2024 23:25:57: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:25:57: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:26:07: Open DB connection
+14.05.2024 23:26:07: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:26:07: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:26:17: Open DB connection
+14.05.2024 23:26:17: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:26:17: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:26:27: Open DB connection
+14.05.2024 23:26:27: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:26:27: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:26:37: Open DB connection
+14.05.2024 23:26:37: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:26:37: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:26:48: Open DB connection
+14.05.2024 23:26:48: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:26:48: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:26:58: Open DB connection
+14.05.2024 23:26:58: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:26:58: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:27:08: Open DB connection
+14.05.2024 23:27:08: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:27:08: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:27:18: Open DB connection
+14.05.2024 23:27:18: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:27:18: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:27:28: Open DB connection
+14.05.2024 23:27:28: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:27:28: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:27:38: Open DB connection
+14.05.2024 23:27:38: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:27:38: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:27:48: Open DB connection
+14.05.2024 23:27:48: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:27:48: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:27:58: Open DB connection
+14.05.2024 23:27:58: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:27:58: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:28:08: Open DB connection
+14.05.2024 23:28:08: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:28:08: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:28:18: Open DB connection
+14.05.2024 23:28:18: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:28:18: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:28:28: Open DB connection
+14.05.2024 23:28:28: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:28:28: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:28:38: Open DB connection
+14.05.2024 23:28:38: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:28:38: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:28:48: Open DB connection
+14.05.2024 23:28:48: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:28:48: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:28:58: Open DB connection
+14.05.2024 23:28:58: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:28:58: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:29:08: Open DB connection
+14.05.2024 23:29:08: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:29:08: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:29:18: Open DB connection
+14.05.2024 23:29:18: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:29:18: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:29:28: Open DB connection
+14.05.2024 23:29:28: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:29:28: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:29:38: Open DB connection
+14.05.2024 23:29:38: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:29:38: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:29:48: Open DB connection
+14.05.2024 23:29:48: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:29:48: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:29:58: Open DB connection
+14.05.2024 23:29:58: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:29:58: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:30:08: Open DB connection
+14.05.2024 23:30:08: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:30:08: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:30:18: Open DB connection
+14.05.2024 23:30:18: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:30:18: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:30:28: Open DB connection
+14.05.2024 23:30:28: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:30:28: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:30:38: Open DB connection
+14.05.2024 23:30:38: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:30:38: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:30:48: Open DB connection
+14.05.2024 23:30:48: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:30:48: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:30:58: Open DB connection
+14.05.2024 23:30:58: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:30:58: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:31:08: Open DB connection
+14.05.2024 23:31:08: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:31:08: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:31:19: Open DB connection
+14.05.2024 23:31:19: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:31:19: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:31:29: Open DB connection
+14.05.2024 23:31:29: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:31:29: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:31:39: Open DB connection
+14.05.2024 23:31:39: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:31:39: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:31:49: Open DB connection
+14.05.2024 23:31:49: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:31:49: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:31:59: Open DB connection
+14.05.2024 23:31:59: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:31:59: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:32:09: Open DB connection
+14.05.2024 23:32:09: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:32:09: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:32:19: Open DB connection
+14.05.2024 23:32:19: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:32:19: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:32:29: Open DB connection
+14.05.2024 23:32:29: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:32:29: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:32:39: Open DB connection
+14.05.2024 23:32:39: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:32:39: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:32:49: Open DB connection
+14.05.2024 23:32:49: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:32:49: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:32:59: Open DB connection
+14.05.2024 23:32:59: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:32:59: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:33:09: Open DB connection
+14.05.2024 23:33:09: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:33:09: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:33:19: Open DB connection
+14.05.2024 23:33:19: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:33:19: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:33:29: Open DB connection
+14.05.2024 23:33:29: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:33:29: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:33:39: Open DB connection
+14.05.2024 23:33:39: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:33:39: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:33:49: Open DB connection
+14.05.2024 23:33:49: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:33:49: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:33:59: Open DB connection
+14.05.2024 23:33:59: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:33:59: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:34:09: Open DB connection
+14.05.2024 23:34:09: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:34:09: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:34:19: Open DB connection
+14.05.2024 23:34:19: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:34:19: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:34:29: Open DB connection
+14.05.2024 23:34:29: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:34:29: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:34:39: Open DB connection
+14.05.2024 23:34:39: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:34:39: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:34:49: Open DB connection
+14.05.2024 23:34:49: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:34:49: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:34:59: Open DB connection
+14.05.2024 23:34:59: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:34:59: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:35:09: Open DB connection
+14.05.2024 23:35:09: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:35:09: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:35:19: Open DB connection
+14.05.2024 23:35:19: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:35:19: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:35:29: Open DB connection
+14.05.2024 23:35:29: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:35:29: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:35:39: Open DB connection
+14.05.2024 23:35:39: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:35:39: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:35:50: Open DB connection
+14.05.2024 23:35:50: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:35:50: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:36:00: Open DB connection
+14.05.2024 23:36:00: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:36:00: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:36:10: Open DB connection
+14.05.2024 23:36:10: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:36:10: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:36:20: Open DB connection
+14.05.2024 23:36:20: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:36:20: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:36:30: Open DB connection
+14.05.2024 23:36:30: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:36:30: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:36:40: Open DB connection
+14.05.2024 23:36:40: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:36:40: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:36:50: Open DB connection
+14.05.2024 23:36:50: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:36:50: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:37:00: Open DB connection
+14.05.2024 23:37:00: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:37:00: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:37:10: Open DB connection
+14.05.2024 23:37:10: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:37:10: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:37:20: Open DB connection
+14.05.2024 23:37:20: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:37:20: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:37:30: Open DB connection
+14.05.2024 23:37:30: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:37:30: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:37:40: Open DB connection
+14.05.2024 23:37:40: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:37:40: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:37:50: Open DB connection
+14.05.2024 23:37:50: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:37:50: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:38:00: Open DB connection
+14.05.2024 23:38:00: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:38:00: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:38:10: Open DB connection
+14.05.2024 23:38:10: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:38:10: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:38:20: Open DB connection
+14.05.2024 23:38:20: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:38:20: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:38:30: Open DB connection
+14.05.2024 23:38:30: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:38:30: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:38:40: Open DB connection
+14.05.2024 23:38:40: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:38:40: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:38:50: Open DB connection
+14.05.2024 23:38:50: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:38:50: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:39:00: Open DB connection
+14.05.2024 23:39:00: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:39:00: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:39:10: Open DB connection
+14.05.2024 23:39:10: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:39:10: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:39:20: Open DB connection
+14.05.2024 23:39:20: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:39:20: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:39:30: Open DB connection
+14.05.2024 23:39:30: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:39:30: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:39:40: Open DB connection
+14.05.2024 23:39:40: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:39:40: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:39:50: Open DB connection
+14.05.2024 23:39:50: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:39:50: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:40:00: Open DB connection
+14.05.2024 23:40:00: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:40:00: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:40:10: Open DB connection
+14.05.2024 23:40:10: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:40:11: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:40:21: Open DB connection
+14.05.2024 23:40:21: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:40:21: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:40:31: Open DB connection
+14.05.2024 23:40:31: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:40:31: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:40:41: Open DB connection
+14.05.2024 23:40:41: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:40:41: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:40:51: Open DB connection
+14.05.2024 23:40:51: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:40:51: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:41:01: Open DB connection
+14.05.2024 23:41:01: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:41:01: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:41:11: Open DB connection
+14.05.2024 23:41:11: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:41:11: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:41:21: Open DB connection
+14.05.2024 23:41:21: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:41:21: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:41:31: Open DB connection
+14.05.2024 23:41:31: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:41:31: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:41:41: Open DB connection
+14.05.2024 23:41:41: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:41:41: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:41:51: Open DB connection
+14.05.2024 23:41:51: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:41:51: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:42:01: Open DB connection
+14.05.2024 23:42:01: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:42:01: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:42:11: Open DB connection
+14.05.2024 23:42:11: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:42:11: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:42:21: Open DB connection
+14.05.2024 23:42:21: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:42:21: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:42:31: Open DB connection
+14.05.2024 23:42:31: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:42:31: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:42:41: Open DB connection
+14.05.2024 23:42:41: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:42:41: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:42:51: Open DB connection
+14.05.2024 23:42:51: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:42:51: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:43:01: Open DB connection
+14.05.2024 23:43:01: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:43:01: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:43:11: Open DB connection
+14.05.2024 23:43:11: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:43:11: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:43:21: Open DB connection
+14.05.2024 23:43:21: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:43:21: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:43:31: Open DB connection
+14.05.2024 23:43:31: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:43:31: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:43:41: Open DB connection
+14.05.2024 23:43:41: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:43:41: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:43:51: Open DB connection
+14.05.2024 23:43:51: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:43:51: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:44:01: Open DB connection
+14.05.2024 23:44:01: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:44:01: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:44:11: Open DB connection
+14.05.2024 23:44:11: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:44:11: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:44:21: Open DB connection
+14.05.2024 23:44:21: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:44:21: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:44:31: Open DB connection
+14.05.2024 23:44:31: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:44:31: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:44:42: Open DB connection
+14.05.2024 23:44:42: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:44:42: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:44:52: Open DB connection
+14.05.2024 23:44:52: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:44:52: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:45:02: Open DB connection
+14.05.2024 23:45:02: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:45:02: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:45:12: Open DB connection
+14.05.2024 23:45:12: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:45:12: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:45:22: Open DB connection
+14.05.2024 23:45:22: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:45:22: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:45:32: Open DB connection
+14.05.2024 23:45:32: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:45:32: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:45:42: Open DB connection
+14.05.2024 23:45:42: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:45:42: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:45:52: Open DB connection
+14.05.2024 23:45:52: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:45:52: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:46:02: Open DB connection
+14.05.2024 23:46:02: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:46:02: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:46:12: Open DB connection
+14.05.2024 23:46:12: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:46:12: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:46:22: Open DB connection
+14.05.2024 23:46:22: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:46:22: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:46:32: Open DB connection
+14.05.2024 23:46:32: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:46:32: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:46:42: Open DB connection
+14.05.2024 23:46:42: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:46:42: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:46:52: Open DB connection
+14.05.2024 23:46:52: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:46:52: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:47:02: Open DB connection
+14.05.2024 23:47:02: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:47:02: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:47:12: Open DB connection
+14.05.2024 23:47:12: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:47:12: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:47:22: Open DB connection
+14.05.2024 23:47:22: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:47:22: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:47:32: Open DB connection
+14.05.2024 23:47:32: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:47:32: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:47:42: Open DB connection
+14.05.2024 23:47:42: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:47:42: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:47:52: Open DB connection
+14.05.2024 23:47:52: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:47:52: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:48:02: Open DB connection
+14.05.2024 23:48:02: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:48:02: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:48:12: Open DB connection
+14.05.2024 23:48:12: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:48:12: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:48:22: Open DB connection
+14.05.2024 23:48:22: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:48:22: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:48:32: Open DB connection
+14.05.2024 23:48:32: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:48:32: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:48:42: Open DB connection
+14.05.2024 23:48:42: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:48:42: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:48:52: Open DB connection
+14.05.2024 23:48:52: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:48:52: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:49:03: Open DB connection
+14.05.2024 23:49:03: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:49:03: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:49:13: Open DB connection
+14.05.2024 23:49:13: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:49:13: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:49:23: Open DB connection
+14.05.2024 23:49:23: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:49:23: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:49:33: Open DB connection
+14.05.2024 23:49:33: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:49:33: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:49:43: Open DB connection
+14.05.2024 23:49:43: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:49:43: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:49:53: Open DB connection
+14.05.2024 23:49:53: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:49:53: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:50:03: Open DB connection
+14.05.2024 23:50:03: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:50:03: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:50:13: Open DB connection
+14.05.2024 23:50:13: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:50:13: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:50:23: Open DB connection
+14.05.2024 23:50:23: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:50:23: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:50:33: Open DB connection
+14.05.2024 23:50:33: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:50:33: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:50:43: Open DB connection
+14.05.2024 23:50:43: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:50:43: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:50:53: Open DB connection
+14.05.2024 23:50:53: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:50:53: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:51:03: Open DB connection
+14.05.2024 23:51:03: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:51:03: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:51:13: Open DB connection
+14.05.2024 23:51:13: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:51:13: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:51:23: Open DB connection
+14.05.2024 23:51:23: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:51:23: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:51:33: Open DB connection
+14.05.2024 23:51:33: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:51:33: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:51:43: Open DB connection
+14.05.2024 23:51:43: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:51:43: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:51:53: Open DB connection
+14.05.2024 23:51:53: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:51:53: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:52:03: Open DB connection
+14.05.2024 23:52:03: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:52:03: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:52:13: Open DB connection
+14.05.2024 23:52:13: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:52:13: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:52:23: Open DB connection
+14.05.2024 23:52:23: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:52:23: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:52:33: Open DB connection
+14.05.2024 23:52:33: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:52:33: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:52:43: Open DB connection
+14.05.2024 23:52:43: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:52:43: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:52:53: Open DB connection
+14.05.2024 23:52:53: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:52:53: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:53:03: Open DB connection
+14.05.2024 23:53:03: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:53:03: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:53:13: Open DB connection
+14.05.2024 23:53:13: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:53:13: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:53:23: Open DB connection
+14.05.2024 23:53:24: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:53:24: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:53:34: Open DB connection
+14.05.2024 23:53:34: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:53:34: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:53:44: Open DB connection
+14.05.2024 23:53:44: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:53:44: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:53:54: Open DB connection
+14.05.2024 23:53:54: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:53:54: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:54:04: Open DB connection
+14.05.2024 23:54:04: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:54:04: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:54:14: Open DB connection
+14.05.2024 23:54:14: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:54:14: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:54:24: Open DB connection
+14.05.2024 23:54:24: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:54:24: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:54:34: Open DB connection
+14.05.2024 23:54:34: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:54:34: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:54:44: Open DB connection
+14.05.2024 23:54:44: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:54:44: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:54:54: Open DB connection
+14.05.2024 23:54:54: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:54:54: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:55:04: Open DB connection
+14.05.2024 23:55:04: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:55:04: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:55:14: Open DB connection
+14.05.2024 23:55:14: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:55:14: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:55:24: Open DB connection
+14.05.2024 23:55:24: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:55:24: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:55:34: Open DB connection
+14.05.2024 23:55:34: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:55:34: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:55:44: Open DB connection
+14.05.2024 23:55:44: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:55:44: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:55:54: Open DB connection
+14.05.2024 23:55:54: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:55:54: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:56:04: Open DB connection
+14.05.2024 23:56:04: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:56:04: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:56:14: Open DB connection
+14.05.2024 23:56:14: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:56:14: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:56:24: Open DB connection
+14.05.2024 23:56:24: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:56:24: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:56:34: Open DB connection
+14.05.2024 23:56:34: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:56:34: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:56:44: Open DB connection
+14.05.2024 23:56:44: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:56:44: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:56:54: Open DB connection
+14.05.2024 23:56:54: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:56:54: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:57:04: Open DB connection
+14.05.2024 23:57:04: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:57:04: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:57:14: Open DB connection
+14.05.2024 23:57:14: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:57:14: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:57:24: Open DB connection
+14.05.2024 23:57:24: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:57:24: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:57:34: Open DB connection
+14.05.2024 23:57:34: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:57:34: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:57:44: Open DB connection
+14.05.2024 23:57:44: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:57:44: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:57:54: Open DB connection
+14.05.2024 23:57:55: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:57:55: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:58:05: Open DB connection
+14.05.2024 23:58:05: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:58:05: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:58:15: Open DB connection
+14.05.2024 23:58:15: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:58:15: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:58:25: Open DB connection
+14.05.2024 23:58:25: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:58:25: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:58:35: Open DB connection
+14.05.2024 23:58:35: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:58:35: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:58:45: Open DB connection
+14.05.2024 23:58:45: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:58:45: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:58:55: Open DB connection
+14.05.2024 23:58:55: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:58:55: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:59:05: Open DB connection
+14.05.2024 23:59:05: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:59:05: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:59:15: Open DB connection
+14.05.2024 23:59:15: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:59:15: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:59:25: Open DB connection
+14.05.2024 23:59:25: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:59:25: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:59:35: Open DB connection
+14.05.2024 23:59:35: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:59:35: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:59:45: Open DB connection
+14.05.2024 23:59:45: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:59:45: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
+14.05.2024 23:59:55: Open DB connection
+14.05.2024 23:59:55: SELECT TOP 1 r.rem_ank_dttm AS RegistrationDate, r.rem_rid as rid FROM dbo.remiss (NOLOCK) r
+14.05.2024 23:59:55: RID: 0000001226 , RegDate: 09.07.2019 18:50:49
